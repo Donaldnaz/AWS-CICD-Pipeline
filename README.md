@@ -1,4 +1,4 @@
-# AWS CI/CD Pipeline**
+# AWS CI/CD Pipeline
 
 Implemented a complete AWS-native CI/CD pipeline integrating CodeCommit, CodeBuild, and CodePipeline to automate build, test, and deployment.
 
