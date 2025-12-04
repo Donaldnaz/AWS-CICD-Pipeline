@@ -33,7 +33,7 @@ Traditional Jenkins & EC2 deployments were:
 
 ### Architecture Overview
 
-<img width="641" height="443" alt="image" src="https://github.com/user-attachments/assets/7cd667dd-e0ed-4f27-b2cc-e681e18bc596" />
+<img width="1024" height="1024" alt="ChatGPT Image Oct 2, 2025, 02_47_15 PM" src="https://github.com/user-attachments/assets/78b8681d-7e1b-4291-9cfe-7e2533d7b307" />
 
 **Pipeline Flow:**
 1. Developer pushes code to **Bitbucket**  
