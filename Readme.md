@@ -6,7 +6,7 @@ It replaces manual Jenkins-based deployments with a **modern, serverless, AWS-na
 - **AWS CI/CD Pipeline** → [`aws-ci`](https://anasiezeikenna.notion.site/AWS-CI-CD-Pipeline-27005c74585e805c842dd5220424a735)  
 
 
-### Problem Statement
+### Overview
 
 Traditional Jenkins & EC2 deployments were:
 - Manual, error-prone, and not scalable  
