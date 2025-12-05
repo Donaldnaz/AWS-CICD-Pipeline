@@ -3,7 +3,7 @@
 This project demonstrates a **fully automated CI/CD pipeline** using **AWS native services** to deploy a **multi-tier Java application** (Profile App).  
 It replaces manual Jenkins-based deployments with a **modern, serverless, AWS-native pipeline** that’s faster, scalable, and cost-efficient.
 
-- **AWS CI/CD Pipeline** → [`aws-ci`](https://anasiezeikenna.notion.site/AWS-CI-CD-Pipeline-27005c74585e805c842dd5220424a735)  
+- **AWS CI/CD Pipeline Full Project** → [`aws-ci`](https://anasiezeikenna.notion.site/AWS-CI-CD-Pipeline-27005c74585e805c842dd5220424a735)  
 
 
 ### Overview
